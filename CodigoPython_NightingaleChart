@@ -1,0 +1,55 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+n_points = 12
+inner_radius = 1
+
+bar1 = [np.random.randint(1, 10) for i in range(n_points)]
+bar2 = [np.random.randint(1, 10)+bar1[i] for i in range(n_points)]
+bar3 = [np.random.randint(1, 10)+bar2[i] for i in range(n_points)]
+
+months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+          "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+x_coords = [i * 2 * np.pi / n_points for i in range(n_points)]
+positions = {month: x_coords[i] for i, month in enumerate(months)}
+
+plt.figure(figsize=(10, 10))
+ax = plt.subplot(111, polar=True)
+ax.bar(
+    [positions[month] for month in months],
+    bar3,
+    width=2 * np.pi / n_points,
+    bottom=inner_radius,
+    color="pink",
+    edgecolor="white",
+    linewidth=1,
+    label="Cirrosis"
+)
+ax.bar(
+    [positions[month] for month in months],
+    bar2,
+    width=2 * np.pi / n_points,
+    bottom=inner_radius,
+    color="aquamarine",
+    edgecolor="white",
+    linewidth=1,
+    label="Neumonía"
+)
+bars = ax.bar(
+    [positions[month] for month in months],
+    bar1,
+    width=2 * np.pi / n_points,
+    bottom=inner_radius,
+    color="lemonchiffon",
+    edgecolor="white",
+    linewidth=1,
+    label="Leucemia"
+)
+
+plt.title("Nightingale Chart: Muertes de Leucemia, Neumonía y Cirrosis en España (2021)", fontsize=16, fontweight="bold")
+plt.text(0, 0, 'Autor: Kevin Gonzalez', horizontalalignment='center', verticalalignment='center', transform=ax.transAxes)
+plt.legend(loc="upper right")
+plt.xticks(x_coords, months)
+
+plt.show()

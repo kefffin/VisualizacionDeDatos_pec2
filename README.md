@@ -16,14 +16,14 @@ Repository donde se pueden encontrar los tres gráficos necesarios para realizar
 ## Word cloud  …/…/assets/Img/logo.png
 
 <div style="float: left; width: 100%;">
-    <img src="src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Word%20cloud.png" align="center">
+    <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Word%20cloud.png" align="center">
 </div>
 
 
 ## Nightingale Chart
 
 <div style="float: left; width: 100%;">
-    <img src="src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Nightingale_chart.png" align="center">
+    <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Nightingale_chart.png" align="center">
 </div>
 
 

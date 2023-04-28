@@ -3,7 +3,7 @@
     <img src="http://www.uoc.edu/portal/_resources/common/imatges/marca_UOC/UOC_Masterbrand.jpg" align="left">
   </div>
   <div style="float: right; width: 50%;">
-    <p style="margin: 0; padding-top: 22px; text-align:right;">PEC2 · Visualización de datos</p>
+    <p style="margin: 0; padding-top: 22px; text-align:right;">PEC2 Visualización de datos</p>
     <p style="margin: 0; text-align:right; padding-button: 100px;">Kevin Gonzalez</p>
     <p style='color: #105269; font-size: 18px; text-align:right'><b>  Máster Ciencia de Datos</b></p>
   </div>

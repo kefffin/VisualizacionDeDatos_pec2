@@ -13,16 +13,16 @@
 # Estudio de técnicas de visualización de datos (PEC 2)
 Repository donde se pueden encontrar los tres gráficos necesarios para realizar la PEC2 de la asignatura Visualización de datos.
 
-### Word cloud
+## Word cloud
 
 
 ![wordcloud](https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Word%20cloud.png)
 
 
-### Nightingale Chart
+## Nightingale Chart
 
 ![Nightingale_chart](https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Nightingale_chart.png)
 
-### Scatterplot
+## Scatterplot
 
 ![scatter](https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Scatterplot.png)

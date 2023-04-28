@@ -16,7 +16,7 @@ Repository donde se pueden encontrar los tres gráficos necesarios para realizar
 ## Word cloud  
 
 <div style="float: left; width: 100%;">
-    <img src="https://raw.githubusercontent.com/kefffin/VisualizacionDeDatos_pec2/main/docs/assets/Nightingale_chart.png" align="center">
+    <img src="https://raw.githubusercontent.com/kefffin/VisualizacionDeDatos_pec2/main/docs/assets/Word%20cloud.png" align="center">
 </div>
 
 
@@ -30,6 +30,7 @@ Repository donde se pueden encontrar los tres gráficos necesarios para realizar
 ## Scatterplot
 
 <div style="float: left; width: 100%;">
-    <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Scatterplot.png" align="center">
+    <img src="https://raw.githubusercontent.com/kefffin/VisualizacionDeDatos_pec2/main/docs/assets/Scatterplot.png![image](https://user-images.githubusercontent.com/116869414/235224262-415db81b-4c7b-4a00-9eda-e9cf0f47d8e5.png)
+" align="center">
 </div>
 

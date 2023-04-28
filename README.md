@@ -15,7 +15,7 @@ Repository donde se pueden encontrar los tres gráficos necesarios para realizar
 
 ## Word cloud  
 
-![Word cloud](/VisualizacionDeDatos_pec2/assets/Word%20cloud.png)
+![Word cloud](/VisualizacionDeDatos_pec2/assets/Nightingale_chart.png)
 
 <div style="float: left; width: 100%;">
     <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Word%20cloud.png" align="center">

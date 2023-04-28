@@ -30,7 +30,6 @@ Repository donde se pueden encontrar los tres gráficos necesarios para realizar
 ## Scatterplot
 
 <div style="float: left; width: 100%;">
-    <img src="https://raw.githubusercontent.com/kefffin/VisualizacionDeDatos_pec2/main/docs/assets/Scatterplot.png![image](https://user-images.githubusercontent.com/116869414/235224262-415db81b-4c7b-4a00-9eda-e9cf0f47d8e5.png)
-" align="center">
+    <img src="https://raw.githubusercontent.com/kefffin/VisualizacionDeDatos_pec2/main/docs/assets/Scatterplot.png" align="center">
 </div>
 

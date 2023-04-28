@@ -13,7 +13,9 @@
 # Estudio de técnicas de visualización de datos (PEC 2)
 Repository donde se pueden encontrar los tres gráficos necesarios para realizar la PEC2 de la asignatura Visualización de datos.
 
-## Word cloud  …/…/assets/Img/logo.png
+## Word cloud  
+
+![Word cloud](/VisualizacionDeDatos_pec2/assets/Word%20cloud.png.png)
 
 <div style="float: left; width: 100%;">
     <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Word%20cloud.png" align="center">

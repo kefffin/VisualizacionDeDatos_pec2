@@ -17,15 +17,19 @@ Repository donde se pueden encontrar los tres gráficos necesarios para realizar
 
 <div style="float: left; width: 100%;">
     <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Word%20cloud.png" align="center">
-  </div>
-
-![wordcloud](https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Word%20cloud.png)
+</div>
 
 
 ## Nightingale Chart
 
-![Nightingale_chart](https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Nightingale_chart.png)
+<div style="float: left; width: 100%;">
+    <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Nightingale_chart.png" align="center">
+</div>
+
 
 ## Scatterplot
 
-![scatter](https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Scatterplot.png)
+<div style="float: left; width: 100%;">
+    <img src="https://github.com/kefffin/VisualizacionDeDatos_pec2/blob/main/img_charts/Scatterplot.png" align="center">
+</div>
+
